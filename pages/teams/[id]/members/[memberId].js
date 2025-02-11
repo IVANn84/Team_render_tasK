@@ -26,3 +26,6 @@
 //     },
 //   };
 // }
+export default function Member() {
+  return <p>НЕ смог</p>;
+}
